@@ -1,0 +1,1262 @@
+Google Play store listing translations for app 'Crowd Siege: Army Cannon Run' (package com.mehmet.crowdsiege).
+Each block: language code, then App name (max 30), Short description (max 80), Full description (max 4000). Use texts exactly as written.
+
+##### LANGUAGE: tr-TR
+App name: Crowd Siege: Ordu ve Kale
+Short description: Topla asker fırlat, kapılardan çoğalt, kaleleri yık! 500 bölüm, internetsiz oyna
+Full description:
+🏰 Crowd Siege'de topunla asker fırlat, çarpan kapılarından geçirip ordunu büyüt ve düşman kalesini yerle bir et! Basit kontrol, bol aksiyon, rahatlatıcı ama bağımlılık yapan bir kalabalık savaşı oyunu.
+
+➕ ORDUNU ÇOĞALT
+Askerlerini ×2, ×3, ×4 ve +N kapılarından geçir, yüzlerce kişilik dev bir orduya dönüştür. Eksi kapılardan ve tuzaklardan kaç!
+
+🔥 ISINAN TOP – USTALIK MEKANİĞİ
+Basılı tutunca top ısınır. Isı çubuğunun yeşil bölgesinde parmağını kaldır: MÜKEMMEL! Top anında soğur ve çift atış yapar. Fazla ısıtırsan top kilitlenir. Zamanlamayı öğren, ustalaş!
+
+👹 DEV BOSSLAR
+Her 10 bölümde bir dev boss: Ogre, Mumya, Yeti, Jelibon Ayı, Korsan Kaptan, Lav Golemi, Robot, Uzaylı ve daha fazlası. Bazıları yere vurur, bazıları minyon çağırır!
+
+🌍 12 DÜNYA – 500 BÖLÜM
+Yeşil Vadi, Kum Fırtınası, Buz Zirvesi, Şeker Krallığı, Korsan Koyu, Kayıp Tapınak, Ateş Dağı, Neon Şehir, Lanetli Bataklık, Yıldız Kalesi, Cadılar Bayramı ve Yılbaşı. Her dünya yeni tuzak getirir: dönen kollar, testereler, çukurlar, duvarlar, düşman kuleleri.
+
+⚔️ ŞAMPİYONLAR VE TOPLAR
+Titan, Ninja, Büyücü, Ejderha ve daha fazla şampiyon; 11 farklı top ve 25 ordu görünümü. Yükseltmelerle ordunu güçlendir.
+
+🎁 HER GÜN YENİ İÇERİK
+Kuşatma modu (sonsuz dalga), Günlük Meydan Okuma, haftalık Yıldız Savaşı, sezon yolu, krallık, sandıklar, şans çarkı, günlük ödül, görevler ve başarımlar.
+
+✅ İnternetsiz oynanır
+✅ Tek parmakla kontrol, kısa bölümler
+✅ 30 dil desteği
+
+Ordunu topla, kapıları çoğalt, kaleleri fethet!
+
+##### LANGUAGE: en-GB
+App name: Crowd Siege: Army Cannon Run
+Short description: Shoot your crowd through ×2 ×3 gates and crush castles! 500 levels, play offline
+Full description:
+🏰 Fire soldiers from your cannon, multiply them through gates and smash the enemy castle! Crowd Siege is an easy-to-play, hard-to-put-down crowd battle game with hundreds of tiny soldiers on screen.
+
+➕ MULTIPLY YOUR ARMY
+Shoot your troops through ×2, ×3, ×4 and +N gates and turn a handful into a huge crowd. Avoid minus gates and traps!
+
+🔥 HOT CANNON – A REAL SKILL MECHANIC
+Holding fire heats your cannon. Release in the green zone of the heat bar for a PERFECT: instant cool-down and a double shot! Overheat and your cannon locks. Learn the timing and master every level.
+
+👹 GIANT BOSSES
+A boss battle every 10 levels: Ogre, Mummy, Yeti, Gummy Bear, Pirate Captain, Lava Golem, Robot, Alien and more. Some stomp your crowd, some summon minions!
+
+🌍 12 WORLDS – 500 LEVELS
+Green Valley, Sandstorm, Frost Peak, Candy Kingdom, Pirate Cove, Lost Temple, Fire Mountain, Neon City, Cursed Swamp, Star Fortress, Halloween and Christmas. Each world brings new traps: spinners, saws, pits, walls and enemy turrets.
+
+⚔️ CHAMPIONS & CANNONS
+Titan, Ninja, Wizard, Dragon and more champions, 11 cannons and 25 army skins. Upgrade fire rate, army size and more.
+
+🎁 SOMETHING NEW EVERY DAY
+Endless Siege mode, Daily Challenge, weekly Star War, season pass road, your own kingdom, chests, lucky wheel, daily rewards, missions and achievements.
+
+✅ Play offline, no internet needed
+✅ One-finger controls, short levels
+✅ 30 languages
+
+Build your crowd, multiply at the gates and conquer every castle!
+
+##### LANGUAGE: en-AU
+App name: Crowd Siege: Army Cannon Run
+Short description: Shoot your crowd through ×2 ×3 gates and crush castles! 500 levels, play offline
+Full description:
+🏰 Fire soldiers from your cannon, multiply them through gates and smash the enemy castle! Crowd Siege is an easy-to-play, hard-to-put-down crowd battle game with hundreds of tiny soldiers on screen.
+
+➕ MULTIPLY YOUR ARMY
+Shoot your troops through ×2, ×3, ×4 and +N gates and turn a handful into a huge crowd. Avoid minus gates and traps!
+
+🔥 HOT CANNON – A REAL SKILL MECHANIC
+Holding fire heats your cannon. Release in the green zone of the heat bar for a PERFECT: instant cool-down and a double shot! Overheat and your cannon locks. Learn the timing and master every level.
+
+👹 GIANT BOSSES
+A boss battle every 10 levels: Ogre, Mummy, Yeti, Gummy Bear, Pirate Captain, Lava Golem, Robot, Alien and more. Some stomp your crowd, some summon minions!
+
+🌍 12 WORLDS – 500 LEVELS
+Green Valley, Sandstorm, Frost Peak, Candy Kingdom, Pirate Cove, Lost Temple, Fire Mountain, Neon City, Cursed Swamp, Star Fortress, Halloween and Christmas. Each world brings new traps: spinners, saws, pits, walls and enemy turrets.
+
+⚔️ CHAMPIONS & CANNONS
+Titan, Ninja, Wizard, Dragon and more champions, 11 cannons and 25 army skins. Upgrade fire rate, army size and more.
+
+🎁 SOMETHING NEW EVERY DAY
+Endless Siege mode, Daily Challenge, weekly Star War, season pass road, your own kingdom, chests, lucky wheel, daily rewards, missions and achievements.
+
+✅ Play offline, no internet needed
+✅ One-finger controls, short levels
+✅ 30 languages
+
+Build your crowd, multiply at the gates and conquer every castle!
+
+##### LANGUAGE: en-CA
+App name: Crowd Siege: Army Cannon Run
+Short description: Shoot your crowd through ×2 ×3 gates and crush castles! 500 levels, play offline
+Full description:
+🏰 Fire soldiers from your cannon, multiply them through gates and smash the enemy castle! Crowd Siege is an easy-to-play, hard-to-put-down crowd battle game with hundreds of tiny soldiers on screen.
+
+➕ MULTIPLY YOUR ARMY
+Shoot your troops through ×2, ×3, ×4 and +N gates and turn a handful into a huge crowd. Avoid minus gates and traps!
+
+🔥 HOT CANNON – A REAL SKILL MECHANIC
+Holding fire heats your cannon. Release in the green zone of the heat bar for a PERFECT: instant cool-down and a double shot! Overheat and your cannon locks. Learn the timing and master every level.
+
+👹 GIANT BOSSES
+A boss battle every 10 levels: Ogre, Mummy, Yeti, Gummy Bear, Pirate Captain, Lava Golem, Robot, Alien and more. Some stomp your crowd, some summon minions!
+
+🌍 12 WORLDS – 500 LEVELS
+Green Valley, Sandstorm, Frost Peak, Candy Kingdom, Pirate Cove, Lost Temple, Fire Mountain, Neon City, Cursed Swamp, Star Fortress, Halloween and Christmas. Each world brings new traps: spinners, saws, pits, walls and enemy turrets.
+
+⚔️ CHAMPIONS & CANNONS
+Titan, Ninja, Wizard, Dragon and more champions, 11 cannons and 25 army skins. Upgrade fire rate, army size and more.
+
+🎁 SOMETHING NEW EVERY DAY
+Endless Siege mode, Daily Challenge, weekly Star War, season pass road, your own kingdom, chests, lucky wheel, daily rewards, missions and achievements.
+
+✅ Play offline, no internet needed
+✅ One-finger controls, short levels
+✅ 30 languages
+
+Build your crowd, multiply at the gates and conquer every castle!
+
+##### LANGUAGE: en-IN
+App name: Crowd Siege: Army Cannon Run
+Short description: Shoot your crowd through ×2 ×3 gates and crush castles! 500 levels, play offline
+Full description:
+🏰 Fire soldiers from your cannon, multiply them through gates and smash the enemy castle! Crowd Siege is an easy-to-play, hard-to-put-down crowd battle game with hundreds of tiny soldiers on screen.
+
+➕ MULTIPLY YOUR ARMY
+Shoot your troops through ×2, ×3, ×4 and +N gates and turn a handful into a huge crowd. Avoid minus gates and traps!
+
+🔥 HOT CANNON – A REAL SKILL MECHANIC
+Holding fire heats your cannon. Release in the green zone of the heat bar for a PERFECT: instant cool-down and a double shot! Overheat and your cannon locks. Learn the timing and master every level.
+
+👹 GIANT BOSSES
+A boss battle every 10 levels: Ogre, Mummy, Yeti, Gummy Bear, Pirate Captain, Lava Golem, Robot, Alien and more. Some stomp your crowd, some summon minions!
+
+🌍 12 WORLDS – 500 LEVELS
+Green Valley, Sandstorm, Frost Peak, Candy Kingdom, Pirate Cove, Lost Temple, Fire Mountain, Neon City, Cursed Swamp, Star Fortress, Halloween and Christmas. Each world brings new traps: spinners, saws, pits, walls and enemy turrets.
+
+⚔️ CHAMPIONS & CANNONS
+Titan, Ninja, Wizard, Dragon and more champions, 11 cannons and 25 army skins. Upgrade fire rate, army size and more.
+
+🎁 SOMETHING NEW EVERY DAY
+Endless Siege mode, Daily Challenge, weekly Star War, season pass road, your own kingdom, chests, lucky wheel, daily rewards, missions and achievements.
+
+✅ Play offline, no internet needed
+✅ One-finger controls, short levels
+✅ 30 languages
+
+Build your crowd, multiply at the gates and conquer every castle!
+
+##### LANGUAGE: en-SG
+App name: Crowd Siege: Army Cannon Run
+Short description: Shoot your crowd through ×2 ×3 gates and crush castles! 500 levels, play offline
+Full description:
+🏰 Fire soldiers from your cannon, multiply them through gates and smash the enemy castle! Crowd Siege is an easy-to-play, hard-to-put-down crowd battle game with hundreds of tiny soldiers on screen.
+
+➕ MULTIPLY YOUR ARMY
+Shoot your troops through ×2, ×3, ×4 and +N gates and turn a handful into a huge crowd. Avoid minus gates and traps!
+
+🔥 HOT CANNON – A REAL SKILL MECHANIC
+Holding fire heats your cannon. Release in the green zone of the heat bar for a PERFECT: instant cool-down and a double shot! Overheat and your cannon locks. Learn the timing and master every level.
+
+👹 GIANT BOSSES
+A boss battle every 10 levels: Ogre, Mummy, Yeti, Gummy Bear, Pirate Captain, Lava Golem, Robot, Alien and more. Some stomp your crowd, some summon minions!
+
+🌍 12 WORLDS – 500 LEVELS
+Green Valley, Sandstorm, Frost Peak, Candy Kingdom, Pirate Cove, Lost Temple, Fire Mountain, Neon City, Cursed Swamp, Star Fortress, Halloween and Christmas. Each world brings new traps: spinners, saws, pits, walls and enemy turrets.
+
+⚔️ CHAMPIONS & CANNONS
+Titan, Ninja, Wizard, Dragon and more champions, 11 cannons and 25 army skins. Upgrade fire rate, army size and more.
+
+🎁 SOMETHING NEW EVERY DAY
+Endless Siege mode, Daily Challenge, weekly Star War, season pass road, your own kingdom, chests, lucky wheel, daily rewards, missions and achievements.
+
+✅ Play offline, no internet needed
+✅ One-finger controls, short levels
+✅ 30 languages
+
+Build your crowd, multiply at the gates and conquer every castle!
+
+##### LANGUAGE: en-ZA
+App name: Crowd Siege: Army Cannon Run
+Short description: Shoot your crowd through ×2 ×3 gates and crush castles! 500 levels, play offline
+Full description:
+🏰 Fire soldiers from your cannon, multiply them through gates and smash the enemy castle! Crowd Siege is an easy-to-play, hard-to-put-down crowd battle game with hundreds of tiny soldiers on screen.
+
+➕ MULTIPLY YOUR ARMY
+Shoot your troops through ×2, ×3, ×4 and +N gates and turn a handful into a huge crowd. Avoid minus gates and traps!
+
+🔥 HOT CANNON – A REAL SKILL MECHANIC
+Holding fire heats your cannon. Release in the green zone of the heat bar for a PERFECT: instant cool-down and a double shot! Overheat and your cannon locks. Learn the timing and master every level.
+
+👹 GIANT BOSSES
+A boss battle every 10 levels: Ogre, Mummy, Yeti, Gummy Bear, Pirate Captain, Lava Golem, Robot, Alien and more. Some stomp your crowd, some summon minions!
+
+🌍 12 WORLDS – 500 LEVELS
+Green Valley, Sandstorm, Frost Peak, Candy Kingdom, Pirate Cove, Lost Temple, Fire Mountain, Neon City, Cursed Swamp, Star Fortress, Halloween and Christmas. Each world brings new traps: spinners, saws, pits, walls and enemy turrets.
+
+⚔️ CHAMPIONS & CANNONS
+Titan, Ninja, Wizard, Dragon and more champions, 11 cannons and 25 army skins. Upgrade fire rate, army size and more.
+
+🎁 SOMETHING NEW EVERY DAY
+Endless Siege mode, Daily Challenge, weekly Star War, season pass road, your own kingdom, chests, lucky wheel, daily rewards, missions and achievements.
+
+✅ Play offline, no internet needed
+✅ One-finger controls, short levels
+✅ 30 languages
+
+Build your crowd, multiply at the gates and conquer every castle!
+
+##### LANGUAGE: es-ES
+App name: Crowd Siege: Ejército y Cañón
+Short description: ¡Dispara tu ejército por puertas ×2 ×3 y destruye castillos! 500 niveles offline
+Full description:
+🏰 ¡Dispara soldados con tu cañón, multiplícalos en las puertas y derriba el castillo enemigo! Crowd Siege es un juego de batallas de multitudes fácil de jugar y difícil de soltar, con cientos de soldados en pantalla.
+
+➕ MULTIPLICA TU EJÉRCITO
+Haz pasar tus tropas por puertas ×2, ×3, ×4 y +N y convierte un puñado en una multitud enorme. ¡Evita las puertas negativas y las trampas!
+
+🔥 CAÑÓN CALIENTE – HABILIDAD DE VERDAD
+Al mantener el disparo el cañón se calienta. Suelta en la zona verde para un PERFECTO: enfriamiento instantáneo y ¡disparo doble! Si se sobrecalienta, se bloquea.
+
+👹 JEFES GIGANTES
+Una batalla contra un jefe cada 10 niveles: Ogro, Momia, Yeti, Osito de Gominola, Capitán Pirata, Gólem de Lava, Robot, Alienígena y más.
+
+🌍 12 MUNDOS – 500 NIVELES
+Valle Verde, Tormenta de Arena, Pico Helado, Reino de Dulces, Cala Pirata, Templo Perdido, Montaña de Fuego, Ciudad Neón, Pantano Maldito, Fortaleza Estelar, Halloween y Navidad. Cada mundo trae trampas nuevas: aspas, sierras, fosos, muros y torretas.
+
+⚔️ CAMPEONES Y CAÑONES
+Titán, Ninja, Mago, Dragón y más campeones, 11 cañones y 25 aspectos de ejército. Mejora la cadencia, el tamaño del ejército y mucho más.
+
+🎁 ALGO NUEVO CADA DÍA
+Modo Asedio infinito, Desafío Diario, Guerra de Estrellas semanal, pase de temporada, tu propio reino, cofres, ruleta de la suerte, premios diarios, misiones y logros.
+
+✅ Juega sin internet
+✅ Control con un dedo, niveles cortos
+✅ 30 idiomas
+
+¡Reúne tu multitud, multiplícala y conquista todos los castillos!
+
+##### LANGUAGE: es-419
+App name: Crowd Siege: Ejército y Cañón
+Short description: ¡Dispara tu ejército por puertas ×2 ×3 y destruye castillos! 500 niveles offline
+Full description:
+🏰 ¡Dispara soldados con tu cañón, multiplícalos en las puertas y derriba el castillo enemigo! Crowd Siege es un juego de batallas de multitudes fácil de jugar y difícil de soltar, con cientos de soldados en pantalla.
+
+➕ MULTIPLICA TU EJÉRCITO
+Haz pasar tus tropas por puertas ×2, ×3, ×4 y +N y convierte un puñado en una multitud enorme. ¡Evita las puertas negativas y las trampas!
+
+🔥 CAÑÓN CALIENTE – HABILIDAD DE VERDAD
+Al mantener el disparo el cañón se calienta. Suelta en la zona verde para un PERFECTO: enfriamiento instantáneo y ¡disparo doble! Si se sobrecalienta, se bloquea.
+
+👹 JEFES GIGANTES
+Una batalla contra un jefe cada 10 niveles: Ogro, Momia, Yeti, Osito de Gominola, Capitán Pirata, Gólem de Lava, Robot, Alienígena y más.
+
+🌍 12 MUNDOS – 500 NIVELES
+Valle Verde, Tormenta de Arena, Pico Helado, Reino de Dulces, Cala Pirata, Templo Perdido, Montaña de Fuego, Ciudad Neón, Pantano Maldito, Fortaleza Estelar, Halloween y Navidad. Cada mundo trae trampas nuevas: aspas, sierras, fosos, muros y torretas.
+
+⚔️ CAMPEONES Y CAÑONES
+Titán, Ninja, Mago, Dragón y más campeones, 11 cañones y 25 aspectos de ejército. Mejora la cadencia, el tamaño del ejército y mucho más.
+
+🎁 ALGO NUEVO CADA DÍA
+Modo Asedio infinito, Desafío Diario, Guerra de Estrellas semanal, pase de temporada, tu propio reino, cofres, ruleta de la suerte, premios diarios, misiones y logros.
+
+✅ Juega sin internet
+✅ Control con un dedo, niveles cortos
+✅ 30 idiomas
+
+¡Reúne tu multitud, multiplícala y conquista todos los castillos!
+
+##### LANGUAGE: es-US
+App name: Crowd Siege: Ejército y Cañón
+Short description: ¡Dispara tu ejército por puertas ×2 ×3 y destruye castillos! 500 niveles offline
+Full description:
+🏰 ¡Dispara soldados con tu cañón, multiplícalos en las puertas y derriba el castillo enemigo! Crowd Siege es un juego de batallas de multitudes fácil de jugar y difícil de soltar, con cientos de soldados en pantalla.
+
+➕ MULTIPLICA TU EJÉRCITO
+Haz pasar tus tropas por puertas ×2, ×3, ×4 y +N y convierte un puñado en una multitud enorme. ¡Evita las puertas negativas y las trampas!
+
+🔥 CAÑÓN CALIENTE – HABILIDAD DE VERDAD
+Al mantener el disparo el cañón se calienta. Suelta en la zona verde para un PERFECTO: enfriamiento instantáneo y ¡disparo doble! Si se sobrecalienta, se bloquea.
+
+👹 JEFES GIGANTES
+Una batalla contra un jefe cada 10 niveles: Ogro, Momia, Yeti, Osito de Gominola, Capitán Pirata, Gólem de Lava, Robot, Alienígena y más.
+
+🌍 12 MUNDOS – 500 NIVELES
+Valle Verde, Tormenta de Arena, Pico Helado, Reino de Dulces, Cala Pirata, Templo Perdido, Montaña de Fuego, Ciudad Neón, Pantano Maldito, Fortaleza Estelar, Halloween y Navidad. Cada mundo trae trampas nuevas: aspas, sierras, fosos, muros y torretas.
+
+⚔️ CAMPEONES Y CAÑONES
+Titán, Ninja, Mago, Dragón y más campeones, 11 cañones y 25 aspectos de ejército. Mejora la cadencia, el tamaño del ejército y mucho más.
+
+🎁 ALGO NUEVO CADA DÍA
+Modo Asedio infinito, Desafío Diario, Guerra de Estrellas semanal, pase de temporada, tu propio reino, cofres, ruleta de la suerte, premios diarios, misiones y logros.
+
+✅ Juega sin internet
+✅ Control con un dedo, niveles cortos
+✅ 30 idiomas
+
+¡Reúne tu multitud, multiplícala y conquista todos los castillos!
+
+##### LANGUAGE: pt-BR
+App name: Crowd Siege: Exército e Canhão
+Short description: Atire seu exército por portões ×2 ×3 e destrua castelos! 500 fases offline
+Full description:
+🏰 Dispare soldados com seu canhão, multiplique-os nos portões e derrube o castelo inimigo! Crowd Siege é um jogo de batalha de multidões fácil de jogar e difícil de largar, com centenas de soldadinhos na tela.
+
+➕ MULTIPLIQUE SEU EXÉRCITO
+Passe suas tropas pelos portões ×2, ×3, ×4 e +N e transforme um punhado em uma multidão gigante. Fuja dos portões negativos e das armadilhas!
+
+🔥 CANHÃO QUENTE – HABILIDADE DE VERDADE
+Segurar o disparo aquece o canhão. Solte na zona verde para um PERFEITO: resfriamento instantâneo e tiro duplo! Superaqueceu? O canhão trava.
+
+👹 CHEFES GIGANTES
+Uma batalha de chefe a cada 10 fases: Ogro, Múmia, Yeti, Ursinho de Goma, Capitão Pirata, Golem de Lava, Robô, Alienígena e mais.
+
+🌍 12 MUNDOS – 500 FASES
+Vale Verde, Tempestade de Areia, Pico Gelado, Reino dos Doces, Enseada Pirata, Templo Perdido, Montanha de Fogo, Cidade Neon, Pântano Amaldiçoado, Fortaleza Estelar, Halloween e Natal. Cada mundo traz novas armadilhas: hélices, serras, buracos, muros e torres.
+
+⚔️ CAMPEÕES E CANHÕES
+Titã, Ninja, Mago, Dragão e outros campeões, 11 canhões e 25 visuais de exército. Melhore a cadência, o tamanho do exército e muito mais.
+
+🎁 NOVIDADES TODO DIA
+Modo Cerco infinito, Desafio Diário, Guerra das Estrelas semanal, passe de temporada, seu próprio reino, baús, roleta da sorte, prêmios diários, missões e conquistas.
+
+✅ Jogue offline
+✅ Controle com um dedo, fases curtas
+✅ 30 idiomas
+
+Junte sua multidão, multiplique nos portões e conquiste todos os castelos!
+
+##### LANGUAGE: pt-PT
+App name: Crowd Siege: Exército e Canhão
+Short description: Atire seu exército por portões ×2 ×3 e destrua castelos! 500 fases offline
+Full description:
+🏰 Dispare soldados com seu canhão, multiplique-os nos portões e derrube o castelo inimigo! Crowd Siege é um jogo de batalha de multidões fácil de jogar e difícil de largar, com centenas de soldadinhos na tela.
+
+➕ MULTIPLIQUE SEU EXÉRCITO
+Passe suas tropas pelos portões ×2, ×3, ×4 e +N e transforme um punhado em uma multidão gigante. Fuja dos portões negativos e das armadilhas!
+
+🔥 CANHÃO QUENTE – HABILIDADE DE VERDADE
+Segurar o disparo aquece o canhão. Solte na zona verde para um PERFEITO: resfriamento instantâneo e tiro duplo! Superaqueceu? O canhão trava.
+
+👹 CHEFES GIGANTES
+Uma batalha de chefe a cada 10 fases: Ogro, Múmia, Yeti, Ursinho de Goma, Capitão Pirata, Golem de Lava, Robô, Alienígena e mais.
+
+🌍 12 MUNDOS – 500 FASES
+Vale Verde, Tempestade de Areia, Pico Gelado, Reino dos Doces, Enseada Pirata, Templo Perdido, Montanha de Fogo, Cidade Neon, Pântano Amaldiçoado, Fortaleza Estelar, Halloween e Natal. Cada mundo traz novas armadilhas: hélices, serras, buracos, muros e torres.
+
+⚔️ CAMPEÕES E CANHÕES
+Titã, Ninja, Mago, Dragão e outros campeões, 11 canhões e 25 visuais de exército. Melhore a cadência, o tamanho do exército e muito mais.
+
+🎁 NOVIDADES TODO DIA
+Modo Cerco infinito, Desafio Diário, Guerra das Estrelas semanal, passe de temporada, seu próprio reino, baús, roleta da sorte, prêmios diários, missões e conquistas.
+
+✅ Jogue offline
+✅ Controle com um dedo, fases curtas
+✅ 30 idiomas
+
+Junte sua multidão, multiplique nos portões e conquiste todos os castelos!
+
+##### LANGUAGE: fr-FR
+App name: Crowd Siege: Armée et Canon
+Short description: Tire ton armée à travers des portes ×2 ×3 et rase les châteaux ! 500 niveaux
+Full description:
+🏰 Tire des soldats avec ton canon, multiplie-les aux portes et détruis le château ennemi ! Crowd Siege est un jeu de bataille de foule facile à prendre en main et difficile à lâcher, avec des centaines de petits soldats à l'écran.
+
+➕ MULTIPLIE TON ARMÉE
+Fais passer tes troupes par les portes ×2, ×3, ×4 et +N pour transformer une poignée de soldats en une foule immense. Évite les portes négatives et les pièges !
+
+🔥 CANON BRÛLANT – UNE VRAIE MÉCANIQUE D'ADRESSE
+Maintenir le tir fait chauffer ton canon. Relâche dans la zone verte pour un PARFAIT : refroidissement instantané et tir double ! En surchauffe, le canon se bloque.
+
+👹 BOSS GÉANTS
+Un combat de boss tous les 10 niveaux : Ogre, Momie, Yéti, Ourson Gélifié, Capitaine Pirate, Golem de Lave, Robot, Alien et plus encore.
+
+🌍 12 MONDES – 500 NIVEAUX
+Vallée Verte, Tempête de Sable, Pic Glacé, Royaume des Bonbons, Crique des Pirates, Temple Perdu, Montagne de Feu, Ville Néon, Marais Maudit, Forteresse Étoilée, Halloween et Noël. Chaque monde apporte de nouveaux pièges : hélices, scies, fosses, murs et tourelles.
+
+⚔️ CHAMPIONS ET CANONS
+Titan, Ninja, Sorcier, Dragon et d'autres champions, 11 canons et 25 apparences d'armée. Améliore la cadence, la taille de l'armée et plus encore.
+
+🎁 DU NOUVEAU CHAQUE JOUR
+Mode Siège sans fin, Défi Quotidien, Guerre des Étoiles hebdomadaire, passe de saison, ton propre royaume, coffres, roue de la fortune, récompenses quotidiennes, missions et succès.
+
+✅ Jouable hors ligne
+✅ Contrôle à un doigt, niveaux courts
+✅ 30 langues
+
+Rassemble ta foule, multiplie-la et conquiers tous les châteaux !
+
+##### LANGUAGE: fr-CA
+App name: Crowd Siege: Armée et Canon
+Short description: Tire ton armée à travers des portes ×2 ×3 et rase les châteaux ! 500 niveaux
+Full description:
+🏰 Tire des soldats avec ton canon, multiplie-les aux portes et détruis le château ennemi ! Crowd Siege est un jeu de bataille de foule facile à prendre en main et difficile à lâcher, avec des centaines de petits soldats à l'écran.
+
+➕ MULTIPLIE TON ARMÉE
+Fais passer tes troupes par les portes ×2, ×3, ×4 et +N pour transformer une poignée de soldats en une foule immense. Évite les portes négatives et les pièges !
+
+🔥 CANON BRÛLANT – UNE VRAIE MÉCANIQUE D'ADRESSE
+Maintenir le tir fait chauffer ton canon. Relâche dans la zone verte pour un PARFAIT : refroidissement instantané et tir double ! En surchauffe, le canon se bloque.
+
+👹 BOSS GÉANTS
+Un combat de boss tous les 10 niveaux : Ogre, Momie, Yéti, Ourson Gélifié, Capitaine Pirate, Golem de Lave, Robot, Alien et plus encore.
+
+🌍 12 MONDES – 500 NIVEAUX
+Vallée Verte, Tempête de Sable, Pic Glacé, Royaume des Bonbons, Crique des Pirates, Temple Perdu, Montagne de Feu, Ville Néon, Marais Maudit, Forteresse Étoilée, Halloween et Noël. Chaque monde apporte de nouveaux pièges : hélices, scies, fosses, murs et tourelles.
+
+⚔️ CHAMPIONS ET CANONS
+Titan, Ninja, Sorcier, Dragon et d'autres champions, 11 canons et 25 apparences d'armée. Améliore la cadence, la taille de l'armée et plus encore.
+
+🎁 DU NOUVEAU CHAQUE JOUR
+Mode Siège sans fin, Défi Quotidien, Guerre des Étoiles hebdomadaire, passe de saison, ton propre royaume, coffres, roue de la fortune, récompenses quotidiennes, missions et succès.
+
+✅ Jouable hors ligne
+✅ Contrôle à un doigt, niveaux courts
+✅ 30 langues
+
+Rassemble ta foule, multiplie-la et conquiers tous les châteaux !
+
+##### LANGUAGE: de-DE
+App name: Crowd Siege: Armee & Kanone
+Short description: Schieß deine Armee durch ×2 ×3 Tore und zerstöre Burgen! 500 Level, offline
+Full description:
+🏰 Feuere Soldaten aus deiner Kanone, vervielfache sie an Toren und mach die feindliche Burg dem Erdboden gleich! Crowd Siege ist ein leicht zu spielendes Massenschlacht-Spiel mit Hunderten kleiner Soldaten auf dem Bildschirm.
+
+➕ VERVIELFACHE DEINE ARMEE
+Schick deine Truppen durch ×2, ×3, ×4 und +N Tore und mach aus einer Handvoll eine riesige Menge. Weiche Minus-Toren und Fallen aus!
+
+🔥 HEISSE KANONE – ECHTES GESCHICK
+Gedrückt halten heizt die Kanone auf. Lass im grünen Bereich los für ein PERFEKT: sofortige Abkühlung und Doppelschuss! Bei Überhitzung blockiert die Kanone.
+
+👹 RIESENBOSSE
+Alle 10 Level ein Bosskampf: Oger, Mumie, Yeti, Gummibär, Piratenkapitän, Lavagolem, Roboter, Alien und mehr.
+
+🌍 12 WELTEN – 500 LEVEL
+Grünes Tal, Sandsturm, Frostgipfel, Süßigkeitenreich, Piratenbucht, Verlorener Tempel, Feuerberg, Neonstadt, Verfluchter Sumpf, Sternenfestung, Halloween und Weihnachten. Jede Welt bringt neue Fallen: Drehflügel, Sägen, Gruben, Mauern und Geschütztürme.
+
+⚔️ CHAMPIONS & KANONEN
+Titan, Ninja, Zauberer, Drache und weitere Champions, 11 Kanonen und 25 Armee-Skins. Verbessere Feuerrate, Armeegröße und mehr.
+
+🎁 JEDEN TAG ETWAS NEUES
+Endloser Belagerungsmodus, Tägliche Herausforderung, wöchentlicher Sternenkrieg, Saisonpass, dein eigenes Königreich, Truhen, Glücksrad, tägliche Belohnungen, Missionen und Erfolge.
+
+✅ Offline spielbar
+✅ Ein-Finger-Steuerung, kurze Level
+✅ 30 Sprachen
+
+Sammle deine Menge, vervielfache sie und erobere jede Burg!
+
+##### LANGUAGE: it-IT
+App name: Crowd Siege: Esercito Cannone
+Short description: Spara il tuo esercito tra porte ×2 ×3 e abbatti i castelli! 500 livelli offline
+Full description:
+🏰 Spara soldati con il tuo cannone, moltiplicali alle porte e abbatti il castello nemico! Crowd Siege è un gioco di battaglie di folla facile da giocare e difficile da mollare, con centinaia di soldatini sullo schermo.
+
+➕ MOLTIPLICA IL TUO ESERCITO
+Fai passare le truppe dalle porte ×2, ×3, ×4 e +N e trasforma una manciata di soldati in una folla enorme. Evita le porte negative e le trappole!
+
+🔥 CANNONE ROVENTE – VERA ABILITÀ
+Tenere premuto scalda il cannone. Rilascia nella zona verde per un PERFETTO: raffreddamento istantaneo e doppio colpo! Se si surriscalda, il cannone si blocca.
+
+👹 BOSS GIGANTI
+Una battaglia contro un boss ogni 10 livelli: Orco, Mummia, Yeti, Orsetto Gommoso, Capitano Pirata, Golem di Lava, Robot, Alieno e altri.
+
+🌍 12 MONDI – 500 LIVELLI
+Valle Verde, Tempesta di Sabbia, Picco Gelato, Regno dei Dolci, Baia dei Pirati, Tempio Perduto, Montagna di Fuoco, Città Neon, Palude Maledetta, Fortezza Stellare, Halloween e Natale. Ogni mondo porta nuove trappole: pale rotanti, seghe, fosse, muri e torrette.
+
+⚔️ CAMPIONI E CANNONI
+Titano, Ninja, Mago, Drago e altri campioni, 11 cannoni e 25 skin dell'esercito. Potenzia cadenza di fuoco, dimensione dell'esercito e altro.
+
+🎁 NOVITÀ OGNI GIORNO
+Modalità Assedio infinita, Sfida Giornaliera, Guerra delle Stelle settimanale, pass stagionale, il tuo regno, forzieri, ruota della fortuna, premi giornalieri, missioni e obiettivi.
+
+✅ Si gioca offline
+✅ Controllo con un dito, livelli brevi
+✅ 30 lingue
+
+Raduna la tua folla, moltiplicala e conquista ogni castello!
+
+##### LANGUAGE: ru-RU
+App name: Crowd Siege: Армия и Пушка
+Short description: Стреляй армией через ворота ×2 ×3 и рушь замки! 500 уровней, игра без интернета
+Full description:
+🏰 Стреляй солдатами из пушки, умножай их в воротах и разрушай вражеский замок! Crowd Siege — простая, но затягивающая игра о битвах толп с сотнями маленьких солдат на экране.
+
+➕ УМНОЖАЙ АРМИЮ
+Проводи войска через ворота ×2, ×3, ×4 и +N и превращай горстку бойцов в огромную толпу. Избегай минусовых ворот и ловушек!
+
+🔥 ГОРЯЧАЯ ПУШКА — НАСТОЯЩИЙ НАВЫК
+Пока держишь огонь, пушка нагревается. Отпусти в зелёной зоне — ИДЕАЛЬНО: мгновенное охлаждение и двойной выстрел! Перегреешь — пушка заблокируется.
+
+👹 БОССЫ-ГИГАНТЫ
+Битва с боссом каждые 10 уровней: Огр, Мумия, Йети, Мармеладный Мишка, Капитан Пиратов, Лавовый Голем, Робот, Пришелец и другие.
+
+🌍 12 МИРОВ — 500 УРОВНЕЙ
+Зелёная Долина, Песчаная Буря, Ледяной Пик, Сладкое Королевство, Пиратская Бухта, Затерянный Храм, Огненная Гора, Неоновый Город, Проклятое Болото, Звёздная Крепость, Хэллоуин и Рождество. В каждом мире новые ловушки: вертушки, пилы, ямы, стены и турели.
+
+⚔️ ЧЕМПИОНЫ И ПУШКИ
+Титан, Ниндзя, Волшебник, Дракон и другие чемпионы, 11 пушек и 25 обликов армии. Улучшай скорострельность, размер армии и многое другое.
+
+🎁 КАЖДЫЙ ДЕНЬ ЧТО-ТО НОВОЕ
+Бесконечный режим Осады, Ежедневное испытание, еженедельная Звёздная война, сезонный пропуск, своё королевство, сундуки, колесо удачи, ежедневные награды, задания и достижения.
+
+✅ Играй без интернета
+✅ Управление одним пальцем, короткие уровни
+✅ 30 языков
+
+Собери толпу, умножь её и захвати каждый замок!
+
+##### LANGUAGE: uk
+App name: Crowd Siege: Армія та Гармата
+Short description: Стріляй армією крізь ворота ×2 ×3 і руйнуй замки! 500 рівнів, гра без інтернету
+Full description:
+🏰 Стріляй солдатами з гармати, примножуй їх у воротах і зноси ворожий замок! Crowd Siege — проста, але захоплива гра про битви натовпів із сотнями маленьких солдатів на екрані.
+
+➕ ПРИМНОЖУЙ АРМІЮ
+Проводь війська крізь ворота ×2, ×3, ×4 і +N та перетворюй жменьку бійців на величезний натовп. Уникай мінусових воріт і пасток!
+
+🔥 ГАРЯЧА ГАРМАТА — СПРАВЖНЯ МАЙСТЕРНІСТЬ
+Поки тримаєш вогонь, гармата нагрівається. Відпусти в зеленій зоні — ІДЕАЛЬНО: миттєве охолодження та подвійний постріл! Перегрієш — гармата заблокується.
+
+👹 БОСИ-ГІГАНТИ
+Битва з босом кожні 10 рівнів: Огр, Мумія, Єті, Мармеладний Ведмедик, Капітан Піратів, Лавовий Голем, Робот, Прибулець та інші.
+
+🌍 12 СВІТІВ — 500 РІВНІВ
+Зелена Долина, Піщана Буря, Крижаний Пік, Солодке Королівство, Піратська Бухта, Загублений Храм, Вогняна Гора, Неонове Місто, Прокляте Болото, Зоряна Фортеця, Гелловін і Різдво. У кожному світі нові пастки: вертушки, пилки, ями, стіни й турелі.
+
+⚔️ ЧЕМПІОНИ ТА ГАРМАТИ
+Титан, Ніндзя, Чарівник, Дракон та інші чемпіони, 11 гармат і 25 образів армії. Покращуй скорострільність, розмір армії та більше.
+
+🎁 ЩОДНЯ ЩОСЬ НОВЕ
+Нескінченний режим Облоги, Щоденне випробування, щотижнева Зоряна війна, сезонний пропуск, власне королівство, скрині, колесо удачі, щоденні нагороди, завдання та досягнення.
+
+✅ Грай без інтернету
+✅ Керування одним пальцем, короткі рівні
+✅ 30 мов
+
+Збери натовп, примнож його та захопи кожен замок!
+
+##### LANGUAGE: pl-PL
+App name: Crowd Siege: Armia i Armata
+Short description: Strzelaj armią przez bramy ×2 ×3 i burz zamki! 500 poziomów, graj bez internetu
+Full description:
+🏰 Wystrzeliwuj żołnierzy z armaty, pomnażaj ich w bramach i zrównaj wrogi zamek z ziemią! Crowd Siege to prosta, ale wciągająca gra o bitwach tłumów z setkami małych żołnierzy na ekranie.
+
+➕ POMNAŻAJ ARMIĘ
+Przeprowadzaj oddziały przez bramy ×2, ×3, ×4 i +N i zamień garstkę żołnierzy w ogromny tłum. Unikaj bram na minusie i pułapek!
+
+🔥 GORĄCA ARMATA – PRAWDZIWA ZRĘCZNOŚĆ
+Przytrzymanie strzału rozgrzewa armatę. Puść w zielonej strefie – IDEALNIE: natychmiastowe chłodzenie i podwójny strzał! Przegrzana armata się blokuje.
+
+👹 GIGANTYCZNI BOSSOWIE
+Walka z bossem co 10 poziomów: Ogr, Mumia, Yeti, Żelkowy Miś, Kapitan Piratów, Lawowy Golem, Robot, Kosmita i inni.
+
+🌍 12 ŚWIATÓW – 500 POZIOMÓW
+Zielona Dolina, Burza Piaskowa, Lodowy Szczyt, Słodkie Królestwo, Piracka Zatoka, Zaginiona Świątynia, Ognista Góra, Neonowe Miasto, Przeklęte Bagno, Gwiezdna Forteca, Halloween i Boże Narodzenie. Każdy świat to nowe pułapki: wiatraki, piły, doły, mury i wieżyczki.
+
+⚔️ CZEMPIONI I ARMATY
+Tytan, Ninja, Czarodziej, Smok i inni czempioni, 11 armat i 25 wyglądów armii. Ulepszaj szybkostrzelność, wielkość armii i więcej.
+
+🎁 CODZIENNIE COŚ NOWEGO
+Nieskończony tryb Oblężenia, Wyzwanie Dnia, cotygodniowa Wojna Gwiazd, przepustka sezonowa, własne królestwo, skrzynie, koło fortuny, codzienne nagrody, misje i osiągnięcia.
+
+✅ Graj offline
+✅ Sterowanie jednym palcem, krótkie poziomy
+✅ 30 języków
+
+Zbierz tłum, pomnóż go i zdobądź każdy zamek!
+
+##### LANGUAGE: nl-NL
+App name: Crowd Siege: Leger en Kanon
+Short description: Schiet je leger door ×2 ×3 poorten en verpletter kastelen! 500 levels, offline
+Full description:
+🏰 Schiet soldaten uit je kanon, vermenigvuldig ze bij poorten en maak het vijandelijke kasteel met de grond gelijk! Crowd Siege is een makkelijk te spelen massagevecht-spel met honderden kleine soldaatjes op je scherm.
+
+➕ VERMENIGVULDIG JE LEGER
+Stuur je troepen door ×2, ×3, ×4 en +N poorten en maak van een handjevol een enorme menigte. Ontwijk min-poorten en vallen!
+
+🔥 HEET KANON – ECHTE BEHENDIGHEID
+Vasthouden verhit je kanon. Laat los in de groene zone voor een PERFECT: direct afkoelen en dubbel schot! Oververhit? Dan blokkeert het kanon.
+
+👹 REUZENBAZEN
+Elke 10 levels een baasgevecht: Oger, Mummie, Yeti, Gombeer, Piratenkapitein, Lavagolem, Robot, Alien en meer.
+
+🌍 12 WERELDEN – 500 LEVELS
+Groene Vallei, Zandstorm, IJspiek, Snoepkoninkrijk, Piratenbaai, Verloren Tempel, Vuurberg, Neonstad, Vervloekt Moeras, Sterrenvesting, Halloween en Kerstmis. Elke wereld brengt nieuwe vallen: draaiers, zagen, kuilen, muren en geschutstorens.
+
+⚔️ KAMPIOENEN EN KANONNEN
+Titan, Ninja, Tovenaar, Draak en meer kampioenen, 11 kanonnen en 25 leger-skins. Upgrade vuursnelheid, legergrootte en meer.
+
+🎁 ELKE DAG IETS NIEUWS
+Eindeloze Belegeringsmodus, Dagelijkse Uitdaging, wekelijkse Sterrenoorlog, seizoenspas, je eigen koninkrijk, kisten, gelukswiel, dagelijkse beloningen, missies en prestaties.
+
+✅ Offline te spelen
+✅ Bediening met één vinger, korte levels
+✅ 30 talen
+
+Verzamel je menigte, vermenigvuldig haar en verover elk kasteel!
+
+##### LANGUAGE: ro
+App name: Crowd Siege: Armată și Tun
+Short description: Trage-ți armata prin porți ×2 ×3 și dărâmă castele! 500 de niveluri, offline
+Full description:
+🏰 Trage soldați cu tunul, multiplică-i la porți și fă una cu pământul castelul inamic! Crowd Siege este un joc de bătălii cu mulțimi, ușor de jucat și greu de lăsat din mână, cu sute de soldăței pe ecran.
+
+➕ MULTIPLICĂ-ȚI ARMATA
+Trece-ți trupele prin porțile ×2, ×3, ×4 și +N și transformă o mână de soldați într-o mulțime uriașă. Ferește-te de porțile cu minus și de capcane!
+
+🔥 TUNUL FIERBINTE – ÎNDEMÂNARE ADEVĂRATĂ
+Ținând apăsat, tunul se încinge. Eliberează în zona verde pentru PERFECT: răcire instantanee și tragere dublă! Dacă se supraîncălzește, tunul se blochează.
+
+👹 ȘEFI URIAȘI
+O luptă cu un șef la fiecare 10 niveluri: Căpcăun, Mumie, Yeti, Ursuleț de Jeleu, Căpitan Pirat, Golem de Lavă, Robot, Extraterestru și alții.
+
+🌍 12 LUMI – 500 DE NIVELURI
+Valea Verde, Furtuna de Nisip, Vârful Înghețat, Regatul Dulciurilor, Golful Piraților, Templul Pierdut, Muntele de Foc, Orașul Neon, Mlaștina Blestemată, Fortăreața Stelară, Halloween și Crăciun. Fiecare lume aduce capcane noi: elice, fierăstraie, gropi, ziduri și turele.
+
+⚔️ CAMPIONI ȘI TUNURI
+Titan, Ninja, Vrăjitor, Dragon și alți campioni, 11 tunuri și 25 de aspecte de armată. Îmbunătățește cadența, mărimea armatei și multe altele.
+
+🎁 CEVA NOU ÎN FIECARE ZI
+Modul Asediu nesfârșit, Provocarea Zilnică, Războiul Stelelor săptămânal, permis de sezon, propriul regat, cufere, roata norocului, recompense zilnice, misiuni și realizări.
+
+✅ Se joacă offline
+✅ Control cu un deget, niveluri scurte
+✅ 30 de limbi
+
+Adună-ți mulțimea, multiplic-o și cucerește fiecare castel!
+
+##### LANGUAGE: cs-CZ
+App name: Crowd Siege: Armáda a Kanón
+Short description: Střílej armádu branami ×2 ×3 a bourej hrady! 500 úrovní, hraj bez internetu
+Full description:
+🏰 Vystřeluj vojáky z kanónu, znásob je v branách a srovnej nepřátelský hrad se zemí! Crowd Siege je jednoduchá, ale návyková hra o bitvách davů se stovkami malých vojáčků na obrazovce.
+
+➕ ZNÁSOB SVOU ARMÁDU
+Pošli jednotky branami ×2, ×3, ×4 a +N a proměň hrstku vojáků v obrovský dav. Vyhýbej se mínusovým branám a pastím!
+
+🔥 HORKÝ KANÓN – SKUTEČNÁ DOVEDNOST
+Držením palby se kanón zahřívá. Pusť v zelené zóně – PERFEKTNÍ: okamžité ochlazení a dvojitý výstřel! Přehřátý kanón se zablokuje.
+
+👹 OBŘÍ BOSSOVÉ
+Souboj s bossem každých 10 úrovní: Zlobr, Mumie, Yetti, Gumový Medvídek, Pirátský Kapitán, Lávový Golem, Robot, Mimozemšťan a další.
+
+🌍 12 SVĚTŮ – 500 ÚROVNÍ
+Zelené Údolí, Písečná Bouře, Ledový Vrchol, Sladké Království, Pirátská Zátoka, Ztracený Chrám, Ohnivá Hora, Neonové Město, Prokleté Bažiny, Hvězdná Pevnost, Halloween a Vánoce. Každý svět přináší nové pasti: vrtule, pily, jámy, zdi a věžičky.
+
+⚔️ ŠAMPIONI A KANÓNY
+Titán, Ninja, Čaroděj, Drak a další šampioni, 11 kanónů a 25 vzhledů armády. Vylepšuj kadenci, velikost armády a další.
+
+🎁 KAŽDÝ DEN NĚCO NOVÉHO
+Nekonečný režim Obléhání, Denní výzva, týdenní Hvězdná válka, sezónní průkaz, vlastní království, truhly, kolo štěstí, denní odměny, mise a úspěchy.
+
+✅ Hraj offline
+✅ Ovládání jedním prstem, krátké úrovně
+✅ 30 jazyků
+
+Shromáždi dav, znásob ho a dobuď každý hrad!
+
+##### LANGUAGE: hu-HU
+App name: Crowd Siege: Sereg és Ágyú
+Short description: Lőd át a sereged ×2 ×3 kapukon és rombold le a várakat! 500 pálya, offline
+Full description:
+🏰 Lőj ki katonákat az ágyúddal, sokszorozd meg őket a kapuknál, és rombold porrá az ellenséges várat! A Crowd Siege egy könnyen játszható, mégis addiktív tömegcsata-játék több száz apró katonával a képernyőn.
+
+➕ SOKSZOROZD A SEREGED
+Vezesd át a csapataidat ×2, ×3, ×4 és +N kapukon, és egy maréknyi katonából hatalmas tömeg lesz. Kerüld a mínuszos kapukat és a csapdákat!
+
+🔥 FORRÓ ÁGYÚ – IGAZI ÜGYESSÉG
+Ha nyomva tartod, az ágyú felforrósodik. Engedd el a zöld zónában a TÖKÉLETES-ért: azonnali hűtés és dupla lövés! Túlhevülve az ágyú leblokkol.
+
+👹 ÓRIÁS BOSSZOK
+Minden 10. pályán bosszharc: Ogre, Múmia, Jeti, Gumimaci, Kalózkapitány, Lávagólem, Robot, Űrlény és mások.
+
+🌍 12 VILÁG – 500 PÁLYA
+Zöld Völgy, Homokvihar, Fagyos Csúcs, Cukorkirályság, Kalózöböl, Elveszett Templom, Tűzhegy, Neonváros, Átkozott Mocsár, Csillagerőd, Halloween és Karácsony. Minden világ új csapdákat hoz: forgók, fűrészek, gödrök, falak és lövegtornyok.
+
+⚔️ BAJNOKOK ÉS ÁGYÚK
+Titán, Nindzsa, Varázsló, Sárkány és további bajnokok, 11 ágyú és 25 seregkinézet. Fejleszd a tűzgyorsaságot, a sereg méretét és még sok mást.
+
+🎁 MINDEN NAP VALAMI ÚJ
+Végtelen Ostrom mód, Napi kihívás, heti Csillagháború, szezonbérlet, saját királyság, ládák, szerencsekerék, napi jutalmak, küldetések és teljesítmények.
+
+✅ Internet nélkül is játszható
+✅ Egyujjas irányítás, rövid pályák
+✅ 30 nyelv
+
+Gyűjtsd össze a tömeget, sokszorozd meg, és hódíts meg minden várat!
+
+##### LANGUAGE: el-GR
+App name: Crowd Siege: Στρατός & Κανόνι
+Short description: Ρίξε τον στρατό σου από πύλες ×2 ×3 και γκρέμισε κάστρα! 500 πίστες, offline
+Full description:
+🏰 Ρίξε στρατιώτες με το κανόνι σου, πολλαπλασίασέ τους στις πύλες και ισοπέδωσε το εχθρικό κάστρο! Το Crowd Siege είναι ένα εύκολο αλλά εθιστικό παιχνίδι μάχης πλήθους με εκατοντάδες μικρούς στρατιώτες στην οθόνη.
+
+➕ ΠΟΛΛΑΠΛΑΣΙΑΣΕ ΤΟΝ ΣΤΡΑΤΟ ΣΟΥ
+Πέρνα τα στρατεύματά σου από πύλες ×2, ×3, ×4 και +N και κάνε μια χούφτα στρατιώτες τεράστιο πλήθος. Απόφυγε τις πύλες μείον και τις παγίδες!
+
+🔥 ΚΑΥΤΟ ΚΑΝΟΝΙ – ΑΛΗΘΙΝΗ ΔΕΞΙΟΤΗΤΑ
+Όσο κρατάς πατημένο, το κανόνι ζεσταίνεται. Άφησε στην πράσινη ζώνη για ΤΕΛΕΙΟ: άμεση ψύξη και διπλή βολή! Αν υπερθερμανθεί, το κανόνι κλειδώνει.
+
+👹 ΓΙΓΑΝΤΙΑ ΑΦΕΝΤΙΚΑ
+Μάχη με αφεντικό κάθε 10 πίστες: Δράκος-Όγκρ, Μούμια, Γέτι, Ζελεδένιο Αρκουδάκι, Πειρατής Καπετάνιος, Γκόλεμ Λάβας, Ρομπότ, Εξωγήινος και άλλα.
+
+🌍 12 ΚΟΣΜΟΙ – 500 ΠΙΣΤΕΣ
+Πράσινη Κοιλάδα, Αμμοθύελλα, Παγωμένη Κορυφή, Βασίλειο των Γλυκών, Πειρατικός Όρμος, Χαμένος Ναός, Βουνό της Φωτιάς, Πόλη Νέον, Καταραμένος Βάλτος, Αστρικό Φρούριο, Halloween και Χριστούγεννα. Κάθε κόσμος φέρνει νέες παγίδες.
+
+⚔️ ΠΡΩΤΑΘΛΗΤΕΣ ΚΑΙ ΚΑΝΟΝΙΑ
+Τιτάνας, Νίντζα, Μάγος, Δράκος και άλλοι πρωταθλητές, 11 κανόνια και 25 εμφανίσεις στρατού. Αναβάθμισε ρυθμό βολής, μέγεθος στρατού και άλλα.
+
+🎁 ΚΑΤΙ ΝΕΟ ΚΑΘΕ ΜΕΡΑ
+Ατελείωτη λειτουργία Πολιορκίας, Ημερήσια πρόκληση, εβδομαδιαίος Πόλεμος των Αστεριών, πάσο σεζόν, δικό σου βασίλειο, σεντούκια, τροχός της τύχης, ημερήσια δώρα, αποστολές και επιτεύγματα.
+
+✅ Παίζεται χωρίς ίντερνετ
+✅ Χειρισμός με ένα δάχτυλο, σύντομες πίστες
+✅ 30 γλώσσες
+
+Μάζεψε το πλήθος σου, πολλαπλασίασέ το και κατάκτησε κάθε κάστρο!
+
+##### LANGUAGE: sv-SE
+App name: Crowd Siege: Armé och Kanon
+Short description: Skjut din armé genom ×2 ×3-portar och krossa slott! 500 nivåer, spela offline
+Full description:
+🏰 Skjut soldater ur din kanon, multiplicera dem vid portarna och jämna fiendens slott med marken! Crowd Siege är ett lättspelat men beroendeframkallande folkmassespel med hundratals små soldater på skärmen.
+
+➕ MULTIPLICERA DIN ARMÉ
+Skicka trupperna genom ×2-, ×3-, ×4- och +N-portar och gör en handfull till en enorm folkmassa. Undvik minusportar och fällor!
+
+🔥 HET KANON – RIKTIG SKICKLIGHET
+När du håller in elden blir kanonen varm. Släpp i den gröna zonen för PERFEKT: direkt nedkylning och dubbelskott! Överhettas kanonen låser den sig.
+
+👹 JÄTTEBOSSAR
+En bosstrid var tionde nivå: Troll, Mumie, Yeti, Gelébjörn, Piratkapten, Lavagolem, Robot, Utomjording och fler.
+
+🌍 12 VÄRLDAR – 500 NIVÅER
+Gröna Dalen, Sandstormen, Frosttoppen, Godisriket, Piratviken, Förlorade Templet, Eldberget, Neonstaden, Förbannade Träsket, Stjärnfästningen, Halloween och Jul. Varje värld bjuder på nya fällor: snurror, sågar, gropar, murar och torn.
+
+⚔️ MÄSTARE OCH KANONER
+Titan, Ninja, Trollkarl, Drake och fler mästare, 11 kanoner och 25 arméutseenden. Uppgradera eldhastighet, arméstorlek med mera.
+
+🎁 NÅGOT NYTT VARJE DAG
+Oändligt Belägringsläge, Daglig utmaning, veckovis Stjärnkrig, säsongspass, ditt eget kungarike, kistor, lyckohjul, dagliga belöningar, uppdrag och prestationer.
+
+✅ Spela offline
+✅ Enfingerkontroll, korta nivåer
+✅ 30 språk
+
+Samla din folkmassa, multiplicera den och erövra varje slott!
+
+##### LANGUAGE: ar
+App name: Crowd Siege: جيش ومدفع
+Short description: أطلق جيشك عبر بوابات ×2 ×3 وحطّم القلاع! 500 مرحلة، العب بدون إنترنت
+Full description:
+🏰 أطلق الجنود من مدفعك، وضاعِفهم عند البوابات، ودمّر قلعة العدو بالكامل! Crowd Siege لعبة معارك حشود سهلة اللعب وممتعة جدًا مع مئات الجنود الصغار على الشاشة.
+
+➕ ضاعِف جيشك
+مرّر قواتك عبر بوابات ×2 و×3 و×4 و+N وحوّل حفنة من الجنود إلى حشد هائل. تجنّب بوابات الطرح والفخاخ!
+
+🔥 المدفع الساخن – مهارة حقيقية
+الاستمرار في الإطلاق يسخّن المدفع. اترك إصبعك في المنطقة الخضراء لتحصل على «مثالي»: تبريد فوري وطلقة مزدوجة! إذا ارتفعت حرارته كثيرًا يتوقف المدفع.
+
+👹 زعماء عمالقة
+معركة زعيم كل 10 مراحل: الغول، المومياء، اليتي، دب الجيلي، قبطان القراصنة، غولم الحمم، الروبوت، الفضائي وغيرهم.
+
+🌍 12 عالمًا – 500 مرحلة
+الوادي الأخضر، العاصفة الرملية، القمة الجليدية، مملكة الحلوى، خليج القراصنة، المعبد المفقود، جبل النار، مدينة النيون، المستنقع الملعون، قلعة النجوم، الهالوين وعيد الميلاد. كل عالم يجلب فخاخًا جديدة: أذرع دوّارة، مناشير، حفر، جدران وأبراج.
+
+⚔️ أبطال ومدافع
+تيتان، النينجا، الساحر، التنين وأبطال آخرون، 11 مدفعًا و25 مظهرًا للجيش. طوّر سرعة الإطلاق وحجم الجيش والمزيد.
+
+🎁 جديد كل يوم
+وضع الحصار اللانهائي، التحدي اليومي، حرب النجوم الأسبوعية، تذكرة الموسم، مملكتك الخاصة، صناديق، عجلة الحظ، مكافآت يومية، مهام وإنجازات.
+
+✅ العب بدون إنترنت
+✅ تحكم بإصبع واحد، مراحل قصيرة
+✅ 30 لغة
+
+اجمع حشدك، ضاعِفه، واغزُ كل القلاع!
+
+##### LANGUAGE: fa
+App name: Crowd Siege: ارتش و توپ
+Short description: ارتشت را از دروازه‌های ×2 ×3 شلیک کن و قلعه‌ها را نابود کن! 500 مرحله، آفلاین
+Full description:
+🏰 با توپت سرباز شلیک کن، آن‌ها را در دروازه‌ها چند برابر کن و قلعه دشمن را با خاک یکسان کن! Crowd Siege یک بازی نبرد جمعیت ساده اما اعتیادآور با صدها سرباز کوچک روی صفحه است.
+
+➕ ارتشت را چند برابر کن
+نیروهایت را از دروازه‌های ×2، ×3، ×4 و +N عبور بده و یک مشت سرباز را به جمعیتی عظیم تبدیل کن. از دروازه‌های منفی و تله‌ها دوری کن!
+
+🔥 توپ داغ – یک مهارت واقعی
+نگه داشتن شلیک، توپ را داغ می‌کند. در ناحیه سبز رها کن تا «عالی» بگیری: خنک شدن فوری و شلیک دوتایی! اگر بیش از حد داغ شود، توپ قفل می‌شود.
+
+👹 غول‌های بزرگ
+هر 10 مرحله یک نبرد با غول: اوگر، مومیایی، یتی، خرس ژله‌ای، ناخدای دزدان دریایی، گولم گدازه، ربات، فضایی و بیشتر.
+
+🌍 12 دنیا – 500 مرحله
+دره سبز، طوفان شن، قله یخی، پادشاهی شیرینی، خلیج دزدان دریایی، معبد گمشده، کوه آتش، شهر نئون، مرداب نفرین‌شده، دژ ستاره، هالووین و کریسمس. هر دنیا تله‌های جدیدی دارد: بازوهای چرخان، اره‌ها، گودال‌ها، دیوارها و برجک‌ها.
+
+⚔️ قهرمانان و توپ‌ها
+تایتان، نینجا، جادوگر، اژدها و قهرمانان دیگر، 11 توپ و 25 ظاهر ارتش. سرعت شلیک، اندازه ارتش و بیشتر را ارتقا بده.
+
+🎁 هر روز چیزی تازه
+حالت محاصره بی‌پایان، چالش روزانه، جنگ ستارگان هفتگی، پاس فصل، پادشاهی خودت، صندوقچه‌ها، گردونه شانس، جوایز روزانه، ماموریت‌ها و دستاوردها.
+
+✅ بدون اینترنت بازی کن
+✅ کنترل با یک انگشت، مراحل کوتاه
+✅ 30 زبان
+
+جمعیتت را جمع کن، چند برابرش کن و همه قلعه‌ها را فتح کن!
+
+##### LANGUAGE: fa-IR
+App name: Crowd Siege: ارتش و توپ
+Short description: ارتشت را از دروازه‌های ×2 ×3 شلیک کن و قلعه‌ها را نابود کن! 500 مرحله، آفلاین
+Full description:
+🏰 با توپت سرباز شلیک کن، آن‌ها را در دروازه‌ها چند برابر کن و قلعه دشمن را با خاک یکسان کن! Crowd Siege یک بازی نبرد جمعیت ساده اما اعتیادآور با صدها سرباز کوچک روی صفحه است.
+
+➕ ارتشت را چند برابر کن
+نیروهایت را از دروازه‌های ×2، ×3، ×4 و +N عبور بده و یک مشت سرباز را به جمعیتی عظیم تبدیل کن. از دروازه‌های منفی و تله‌ها دوری کن!
+
+🔥 توپ داغ – یک مهارت واقعی
+نگه داشتن شلیک، توپ را داغ می‌کند. در ناحیه سبز رها کن تا «عالی» بگیری: خنک شدن فوری و شلیک دوتایی! اگر بیش از حد داغ شود، توپ قفل می‌شود.
+
+👹 غول‌های بزرگ
+هر 10 مرحله یک نبرد با غول: اوگر، مومیایی، یتی، خرس ژله‌ای، ناخدای دزدان دریایی، گولم گدازه، ربات، فضایی و بیشتر.
+
+🌍 12 دنیا – 500 مرحله
+دره سبز، طوفان شن، قله یخی، پادشاهی شیرینی، خلیج دزدان دریایی، معبد گمشده، کوه آتش، شهر نئون، مرداب نفرین‌شده، دژ ستاره، هالووین و کریسمس. هر دنیا تله‌های جدیدی دارد: بازوهای چرخان، اره‌ها، گودال‌ها، دیوارها و برجک‌ها.
+
+⚔️ قهرمانان و توپ‌ها
+تایتان، نینجا، جادوگر، اژدها و قهرمانان دیگر، 11 توپ و 25 ظاهر ارتش. سرعت شلیک، اندازه ارتش و بیشتر را ارتقا بده.
+
+🎁 هر روز چیزی تازه
+حالت محاصره بی‌پایان، چالش روزانه، جنگ ستارگان هفتگی، پاس فصل، پادشاهی خودت، صندوقچه‌ها، گردونه شانس، جوایز روزانه، ماموریت‌ها و دستاوردها.
+
+✅ بدون اینترنت بازی کن
+✅ کنترل با یک انگشت، مراحل کوتاه
+✅ 30 زبان
+
+جمعیتت را جمع کن، چند برابرش کن و همه قلعه‌ها را فتح کن!
+
+##### LANGUAGE: iw-IL
+App name: Crowd Siege: צבא ותותח
+Short description: ירו את הצבא שלכם דרך שערי ×2 ×3 והרסו טירות! 500 שלבים, משחק בלי אינטרנט
+Full description:
+🏰 ירו חיילים מהתותח, הכפילו אותם בשערים והחריבו את טירת האויב! Crowd Siege הוא משחק קרבות המונים קל למשחק וממכר, עם מאות חיילים קטנים על המסך.
+
+➕ הכפילו את הצבא
+העבירו את הכוחות דרך שערי ×2, ×3, ×4 ו-+N והפכו קומץ חיילים להמון עצום. היזהרו משערי מינוס וממלכודות!
+
+🔥 תותח לוהט – מיומנות אמיתית
+החזקת הירי מחממת את התותח. שחררו באזור הירוק וקבלו "מושלם": קירור מיידי ויריה כפולה! התחמם יותר מדי? התותח ננעל.
+
+👹 בוסים ענקיים
+קרב בוס כל 10 שלבים: עוג, מומיה, יטי, דובון גומי, קפטן פיראטים, גולם לבה, רובוט, חייזר ועוד.
+
+🌍 12 עולמות – 500 שלבים
+העמק הירוק, סופת חול, פסגת הכפור, ממלכת הממתקים, מפרץ הפיראטים, המקדש האבוד, הר האש, עיר הניאון, הביצה המקוללת, מבצר הכוכבים, ליל כל הקדושים וחג המולד. כל עולם מביא מלכודות חדשות.
+
+⚔️ אלופים ותותחים
+טיטאן, נינג'ה, קוסם, דרקון ועוד אלופים, 11 תותחים ו-25 מראות לצבא. שדרגו קצב ירי, גודל צבא ועוד.
+
+🎁 משהו חדש כל יום
+מצב מצור אינסופי, אתגר יומי, מלחמת כוכבים שבועית, כרטיס עונה, ממלכה משלכם, תיבות, גלגל המזל, פרסים יומיים, משימות והישגים.
+
+✅ משחק בלי אינטרנט
+✅ שליטה באצבע אחת, שלבים קצרים
+✅ 30 שפות
+
+אספו את ההמון, הכפילו אותו וכבשו כל טירה!
+
+##### LANGUAGE: hi-IN
+App name: Crowd Siege: सेना और तोप
+Short description: अपनी सेना को ×2 ×3 गेट से निकालें और किले तोड़ें! 500 लेवल, बिना इंटरनेट खेलें
+Full description:
+🏰 अपनी तोप से सैनिक दागें, गेट पर उन्हें कई गुना करें और दुश्मन का किला ढहा दें! Crowd Siege एक आसान लेकिन मज़ेदार भीड़-लड़ाई गेम है जिसमें स्क्रीन पर सैकड़ों छोटे सैनिक होते हैं।
+
+➕ अपनी सेना कई गुना करें
+अपनी टुकड़ी को ×2, ×3, ×4 और +N गेट से निकालें और मुट्ठी भर सैनिकों को विशाल भीड़ में बदल दें। माइनस गेट और जाल से बचें!
+
+🔥 गर्म तोप – असली कौशल
+फायर दबाए रखने से तोप गर्म होती है। हरे ज़ोन में उंगली छोड़ें और पाएँ परफेक्ट: तुरंत ठंडी और डबल शॉट! ज़्यादा गर्म हुई तो तोप लॉक हो जाती है।
+
+👹 विशाल बॉस
+हर 10 लेवल पर बॉस की लड़ाई: ओगर, ममी, येती, जेली भालू, समुद्री डाकू कप्तान, लावा गोलेम, रोबोट, एलियन और भी बहुत।
+
+🌍 12 दुनिया – 500 लेवल
+हरी घाटी, रेत का तूफ़ान, बर्फीली चोटी, कैंडी राज्य, समुद्री डाकुओं की खाड़ी, खोया मंदिर, आग का पहाड़, नियॉन शहर, शापित दलदल, सितारों का किला, हैलोवीन और क्रिसमस। हर दुनिया में नए जाल: घूमती भुजाएँ, आरे, गड्ढे, दीवारें और बुर्ज।
+
+⚔️ चैंपियन और तोपें
+टाइटन, निंजा, जादूगर, ड्रैगन और कई चैंपियन, 11 तोपें और 25 सेना स्किन। फायर रेट, सेना का आकार और बहुत कुछ अपग्रेड करें।
+
+🎁 हर दिन कुछ नया
+अंतहीन घेराबंदी मोड, दैनिक चुनौती, साप्ताहिक सितारा युद्ध, सीज़न पास, आपका अपना राज्य, संदूक, भाग्य चक्र, दैनिक इनाम, मिशन और उपलब्धियाँ।
+
+✅ बिना इंटरनेट खेलें
+✅ एक उंगली से नियंत्रण, छोटे लेवल
+✅ 30 भाषाएँ
+
+अपनी भीड़ जुटाएँ, उसे कई गुना करें और हर किला जीतें!
+
+##### LANGUAGE: bn-BD
+App name: Crowd Siege: সেনা ও কামান
+Short description: তোমার সেনাকে ×2 ×3 গেট দিয়ে পাঠাও আর দুর্গ ভাঙো! 500 লেভেল, অফলাইনে খেলো
+Full description:
+🏰 কামান থেকে সৈন্য ছোড়ো, গেটে তাদের বহুগুণ করো আর শত্রুর দুর্গ গুঁড়িয়ে দাও! Crowd Siege একটি সহজ কিন্তু নেশা ধরানো ভিড়-যুদ্ধের গেম, যেখানে পর্দায় থাকে শত শত ছোট সৈন্য।
+
+➕ সেনা বহুগুণ করো
+তোমার সৈন্যদের ×2, ×3, ×4 আর +N গেট দিয়ে পাঠাও, এক মুঠো সৈন্যকে বিশাল ভিড়ে পরিণত করো। মাইনাস গেট আর ফাঁদ এড়িয়ে চলো!
+
+🔥 গরম কামান – আসল দক্ষতা
+ফায়ার চেপে রাখলে কামান গরম হয়। সবুজ অঞ্চলে আঙুল ছাড়লেই পারফেক্ট: সঙ্গে সঙ্গে ঠান্ডা আর ডাবল শট! বেশি গরম হলে কামান আটকে যায়।
+
+👹 বিশাল বস
+প্রতি 10 লেভেলে বসের লড়াই: ওগার, মমি, ইয়েতি, জেলি ভালুক, জলদস্যু ক্যাপ্টেন, লাভা গোলেম, রোবট, এলিয়েন এবং আরও অনেক।
+
+🌍 12টি জগৎ – 500 লেভেল
+সবুজ উপত্যকা, বালির ঝড়, বরফ চূড়া, ক্যান্ডি রাজ্য, জলদস্যু উপসাগর, হারানো মন্দির, আগুন পাহাড়, নিয়ন শহর, অভিশপ্ত জলাভূমি, তারার দুর্গ, হ্যালোইন আর ক্রিসমাস। প্রতিটি জগতে নতুন ফাঁদ।
+
+⚔️ চ্যাম্পিয়ন ও কামান
+টাইটান, নিনজা, জাদুকর, ড্রাগন সহ আরও চ্যাম্পিয়ন, 11টি কামান আর 25টি সেনা স্কিন। ফায়ার রেট, সেনার আকার আর আরও অনেক কিছু আপগ্রেড করো।
+
+🎁 প্রতিদিন নতুন কিছু
+অফুরন্ত অবরোধ মোড, দৈনিক চ্যালেঞ্জ, সাপ্তাহিক তারার যুদ্ধ, সিজন পাস, নিজের রাজ্য, সিন্দুক, ভাগ্যচক্র, দৈনিক পুরস্কার, মিশন আর অর্জন।
+
+✅ ইন্টারনেট ছাড়াই খেলো
+✅ এক আঙুলে নিয়ন্ত্রণ, ছোট লেভেল
+✅ 30টি ভাষা
+
+ভিড় জড়ো করো, বহুগুণ করো আর প্রতিটি দুর্গ জয় করো!
+
+##### LANGUAGE: id
+App name: Crowd Siege: Pasukan Meriam
+Short description: Tembakkan pasukanmu lewat gerbang ×2 ×3 dan hancurkan kastel! 500 level, offline
+Full description:
+🏰 Tembakkan prajurit dari meriammu, lipatgandakan mereka di gerbang, dan ratakan kastel musuh! Crowd Siege adalah game perang kerumunan yang mudah dimainkan dan bikin ketagihan, dengan ratusan prajurit mungil di layar.
+
+➕ LIPATGANDAKAN PASUKAN
+Lewatkan pasukanmu melalui gerbang ×2, ×3, ×4, dan +N, ubah segelintir prajurit menjadi kerumunan raksasa. Hindari gerbang minus dan jebakan!
+
+🔥 MERIAM PANAS – KETERAMPILAN SEJATI
+Menahan tembakan membuat meriam panas. Lepaskan di zona hijau untuk SEMPURNA: langsung dingin dan tembakan ganda! Terlalu panas? Meriam terkunci.
+
+👹 BOS RAKSASA
+Pertarungan bos setiap 10 level: Ogre, Mumi, Yeti, Beruang Jeli, Kapten Bajak Laut, Golem Lava, Robot, Alien, dan lainnya.
+
+🌍 12 DUNIA – 500 LEVEL
+Lembah Hijau, Badai Pasir, Puncak Es, Kerajaan Permen, Teluk Bajak Laut, Kuil yang Hilang, Gunung Api, Kota Neon, Rawa Terkutuk, Benteng Bintang, Halloween, dan Natal. Tiap dunia membawa jebakan baru: baling-baling, gergaji, lubang, tembok, dan menara.
+
+⚔️ JUARA & MERIAM
+Titan, Ninja, Penyihir, Naga, dan juara lainnya, 11 meriam dan 25 skin pasukan. Tingkatkan kecepatan tembak, ukuran pasukan, dan lainnya.
+
+🎁 SESUATU YANG BARU SETIAP HARI
+Mode Pengepungan tanpa akhir, Tantangan Harian, Perang Bintang mingguan, season pass, kerajaanmu sendiri, peti, roda keberuntungan, hadiah harian, misi, dan pencapaian.
+
+✅ Main offline
+✅ Kontrol satu jari, level singkat
+✅ 30 bahasa
+
+Kumpulkan kerumunanmu, lipatgandakan, dan taklukkan setiap kastel!
+
+##### LANGUAGE: ms
+App name: Crowd Siege: Tentera & Meriam
+Short description: Tembak tentera melalui pintu ×2 ×3 dan musnahkan istana! 500 tahap, main offline
+Full description:
+🏰 Tembak askar dari meriammu, gandakan mereka di pintu gerbang dan ranapkan istana musuh! Crowd Siege ialah permainan perang orang ramai yang mudah dimainkan dan mengasyikkan, dengan ratusan askar kecil di skrin.
+
+➕ GANDAKAN TENTERAMU
+Hantar pasukanmu melalui pintu ×2, ×3, ×4 dan +N dan jadikan segelintir askar satu kumpulan yang besar. Elakkan pintu tolak dan perangkap!
+
+🔥 MERIAM PANAS – KEMAHIRAN SEBENAR
+Menahan tembakan memanaskan meriam. Lepaskan di zon hijau untuk SEMPURNA: sejuk serta-merta dan tembakan berganda! Terlalu panas? Meriam terkunci.
+
+👹 BOS GERGASI
+Pertarungan bos setiap 10 tahap: Ogre, Mumia, Yeti, Beruang Jeli, Kapten Lanun, Golem Lava, Robot, Makhluk Asing dan banyak lagi.
+
+🌍 12 DUNIA – 500 TAHAP
+Lembah Hijau, Ribut Pasir, Puncak Beku, Kerajaan Gula-gula, Teluk Lanun, Kuil Hilang, Gunung Api, Bandar Neon, Paya Terkutuk, Kubu Bintang, Halloween dan Krismas. Setiap dunia membawa perangkap baharu.
+
+⚔️ JUARA & MERIAM
+Titan, Ninja, Ahli Sihir, Naga dan juara lain, 11 meriam dan 25 rupa tentera. Naik taraf kadar tembakan, saiz tentera dan banyak lagi.
+
+🎁 SESUATU YANG BAHARU SETIAP HARI
+Mod Kepungan tanpa henti, Cabaran Harian, Perang Bintang mingguan, pas musim, kerajaanmu sendiri, peti, roda tuah, ganjaran harian, misi dan pencapaian.
+
+✅ Main tanpa internet
+✅ Kawalan satu jari, tahap pendek
+✅ 30 bahasa
+
+Kumpulkan orang ramai, gandakan dan takluki setiap istana!
+
+##### LANGUAGE: ms-MY
+App name: Crowd Siege: Tentera & Meriam
+Short description: Tembak tentera melalui pintu ×2 ×3 dan musnahkan istana! 500 tahap, main offline
+Full description:
+🏰 Tembak askar dari meriammu, gandakan mereka di pintu gerbang dan ranapkan istana musuh! Crowd Siege ialah permainan perang orang ramai yang mudah dimainkan dan mengasyikkan, dengan ratusan askar kecil di skrin.
+
+➕ GANDAKAN TENTERAMU
+Hantar pasukanmu melalui pintu ×2, ×3, ×4 dan +N dan jadikan segelintir askar satu kumpulan yang besar. Elakkan pintu tolak dan perangkap!
+
+🔥 MERIAM PANAS – KEMAHIRAN SEBENAR
+Menahan tembakan memanaskan meriam. Lepaskan di zon hijau untuk SEMPURNA: sejuk serta-merta dan tembakan berganda! Terlalu panas? Meriam terkunci.
+
+👹 BOS GERGASI
+Pertarungan bos setiap 10 tahap: Ogre, Mumia, Yeti, Beruang Jeli, Kapten Lanun, Golem Lava, Robot, Makhluk Asing dan banyak lagi.
+
+🌍 12 DUNIA – 500 TAHAP
+Lembah Hijau, Ribut Pasir, Puncak Beku, Kerajaan Gula-gula, Teluk Lanun, Kuil Hilang, Gunung Api, Bandar Neon, Paya Terkutuk, Kubu Bintang, Halloween dan Krismas. Setiap dunia membawa perangkap baharu.
+
+⚔️ JUARA & MERIAM
+Titan, Ninja, Ahli Sihir, Naga dan juara lain, 11 meriam dan 25 rupa tentera. Naik taraf kadar tembakan, saiz tentera dan banyak lagi.
+
+🎁 SESUATU YANG BAHARU SETIAP HARI
+Mod Kepungan tanpa henti, Cabaran Harian, Perang Bintang mingguan, pas musim, kerajaanmu sendiri, peti, roda tuah, ganjaran harian, misi dan pencapaian.
+
+✅ Main tanpa internet
+✅ Kawalan satu jari, tahap pendek
+✅ 30 bahasa
+
+Kumpulkan orang ramai, gandakan dan takluki setiap istana!
+
+##### LANGUAGE: vi
+App name: Crowd Siege: Quân Đoàn Đại Bác
+Short description: Bắn quân qua cổng ×2 ×3 và phá tan lâu đài! 500 màn, chơi không cần mạng
+Full description:
+🏰 Bắn lính từ đại bác, nhân chúng lên qua các cổng và san bằng lâu đài kẻ thù! Crowd Siege là game đại chiến đám đông dễ chơi nhưng gây nghiện với hàng trăm chú lính tí hon trên màn hình.
+
+➕ NHÂN ĐÔI QUÂN ĐOÀN
+Đưa quân qua cổng ×2, ×3, ×4 và +N để biến một nhóm nhỏ thành đội quân khổng lồ. Tránh cổng trừ và bẫy!
+
+🔥 ĐẠI BÁC NÓNG – KỸ NĂNG THỰC SỰ
+Giữ bắn sẽ làm đại bác nóng lên. Thả tay ở vùng xanh để đạt HOÀN HẢO: hạ nhiệt tức thì và bắn đôi! Quá nóng thì đại bác bị khóa.
+
+👹 TRÙM KHỔNG LỒ
+Đánh trùm mỗi 10 màn: Yêu Tinh, Xác Ướp, Người Tuyết, Gấu Dẻo, Thuyền Trưởng Cướp Biển, Golem Dung Nham, Rô-bốt, Người Ngoài Hành Tinh và nhiều hơn.
+
+🌍 12 THẾ GIỚI – 500 MÀN
+Thung Lũng Xanh, Bão Cát, Đỉnh Băng, Vương Quốc Kẹo, Vịnh Cướp Biển, Đền Thất Lạc, Núi Lửa, Thành Phố Neon, Đầm Lầy Bị Nguyền, Pháo Đài Sao, Halloween và Giáng Sinh. Mỗi thế giới có bẫy mới: cánh quạt, lưỡi cưa, hố, tường và tháp pháo.
+
+⚔️ NHÀ VÔ ĐỊCH & ĐẠI BÁC
+Titan, Ninja, Phù Thủy, Rồng và nhiều nhà vô địch khác, 11 đại bác và 25 trang phục quân đoàn. Nâng cấp tốc độ bắn, quy mô quân và hơn thế nữa.
+
+🎁 MỖI NGÀY ĐỀU CÓ ĐIỀU MỚI
+Chế độ Vây Thành vô tận, Thử Thách Hằng Ngày, Chiến Tranh Ngôi Sao hằng tuần, thẻ mùa, vương quốc riêng, rương báu, vòng quay may mắn, quà hằng ngày, nhiệm vụ và thành tích.
+
+✅ Chơi không cần mạng
+✅ Điều khiển một ngón tay, màn chơi ngắn
+✅ 30 ngôn ngữ
+
+Tập hợp đám đông, nhân quân và chinh phục mọi lâu đài!
+
+##### LANGUAGE: th
+App name: Crowd Siege: กองทัพปืนใหญ่
+Short description: ยิงกองทัพผ่านประตู ×2 ×3 แล้วทลายปราสาท! 500 ด่าน เล่นได้ไม่ต้องใช้เน็ต
+Full description:
+🏰 ยิงทหารออกจากปืนใหญ่ ทวีคูณพวกเขาที่ประตู แล้วทลายปราสาทศัตรูให้ราบ! Crowd Siege คือเกมศึกฝูงชนที่เล่นง่ายแต่ติดงอมแงม มีทหารตัวจิ๋วนับร้อยบนจอ
+
+➕ ทวีคูณกองทัพ
+ส่งทหารผ่านประตู ×2, ×3, ×4 และ +N เปลี่ยนทหารไม่กี่คนให้กลายเป็นฝูงชนมหึมา หลบประตูลบและกับดัก!
+
+🔥 ปืนใหญ่ร้อนแรง – ทักษะของจริง
+กดยิงค้างไว้ปืนใหญ่จะร้อนขึ้น ปล่อยนิ้วในโซนสีเขียวเพื่อรับเพอร์เฟกต์: เย็นลงทันทีและยิงสองนัด! ถ้าร้อนเกินไปปืนใหญ่จะล็อก
+
+👹 บอสยักษ์
+สู้บอสทุก 10 ด่าน: ยักษ์โอเกอร์ มัมมี่ เยติ หมีเยลลี่ กัปตันโจรสลัด โกเล็มลาวา หุ่นยนต์ เอเลี่ยน และอีกมากมาย
+
+🌍 12 โลก – 500 ด่าน
+หุบเขาเขียว พายุทราย ยอดเขาน้ำแข็ง อาณาจักรขนมหวาน อ่าวโจรสลัด วิหารที่สาบสูญ ภูเขาไฟ เมืองนีออน หนองน้ำต้องสาป ป้อมดวงดาว ฮาโลวีน และคริสต์มาส ทุกโลกมีกับดักใหม่: ใบพัด เลื่อย หลุม กำแพง และป้อมปืน
+
+⚔️ แชมเปี้ยนและปืนใหญ่
+ไททัน นินจา พ่อมด มังกร และแชมเปี้ยนอีกมาก ปืนใหญ่ 11 แบบ และสกินกองทัพ 25 แบบ อัปเกรดอัตราการยิง ขนาดกองทัพ และอื่นๆ
+
+🎁 มีของใหม่ทุกวัน
+โหมดล้อมเมืองไม่สิ้นสุด ภารกิจท้าทายรายวัน สงครามดวงดาวรายสัปดาห์ ซีซันพาส อาณาจักรของคุณเอง หีบสมบัติ วงล้อนำโชค รางวัลรายวัน ภารกิจ และความสำเร็จ
+
+✅ เล่นได้ไม่ต้องใช้อินเทอร์เน็ต
+✅ ควบคุมด้วยนิ้วเดียว ด่านสั้น
+✅ รองรับ 30 ภาษา
+
+รวมฝูงชน ทวีคูณ แล้วพิชิตทุกปราสาท!
+
+##### LANGUAGE: fil
+App name: Crowd Siege: Hukbo at Kanyon
+Short description: Ipadaan ang hukbo sa ×2 ×3 na gate at gibain ang kastilyo! 500 level, offline
+Full description:
+🏰 Magpaputok ng mga sundalo mula sa kanyon, paramihin sila sa mga gate at gibain ang kastilyo ng kaaway! Ang Crowd Siege ay madaling laruin pero nakakaadik na laro ng labanan ng mga tao, na may daan-daang maliliit na sundalo sa screen.
+
+➕ PARAMIHIN ANG HUKBO
+Ipadaan ang mga tropa sa ×2, ×3, ×4 at +N na gate at gawing napakalaking pulutong ang ilang sundalo. Iwasan ang minus na gate at mga bitag!
+
+🔥 MAINIT NA KANYON – TUNAY NA GALING
+Kapag pinindot nang matagal, umiinit ang kanyon. Bitawan sa berdeng bahagi para sa PERPEKTO: agad lalamig at dobleng putok! Kapag sobrang init, nala-lock ang kanyon.
+
+👹 HIGANTENG BOSS
+Laban sa boss bawat 10 level: Ogre, Mumya, Yeti, Gummy Bear, Kapitang Pirata, Lava Golem, Robot, Alien at marami pa.
+
+🌍 12 MUNDO – 500 LEVEL
+Berdeng Lambak, Bagyong Buhangin, Nagyeyelong Tuktok, Kaharian ng Kendi, Look ng Pirata, Nawalang Templo, Bundok ng Apoy, Neon City, Isinumpang Latian, Kuta ng Bituin, Halloween at Pasko. May bagong bitag sa bawat mundo.
+
+⚔️ MGA KAMPEON AT KANYON
+Titan, Ninja, Wizard, Dragon at iba pang kampeon, 11 kanyon at 25 itsura ng hukbo. I-upgrade ang bilis ng putok, laki ng hukbo at iba pa.
+
+🎁 MAY BAGO ARAW-ARAW
+Walang katapusang Siege mode, Daily Challenge, lingguhang Star War, season pass, sariling kaharian, mga baul, lucky wheel, araw-araw na gantimpala, misyon at achievements.
+
+✅ Laruin kahit offline
+✅ Kontrol gamit ang isang daliri, maiikling level
+✅ 30 wika
+
+Tipunin ang pulutong, paramihin at sakupin ang bawat kastilyo!
+
+##### LANGUAGE: ja-JP
+App name: Crowd Siege: 大砲で軍団バトル
+Short description: ×2 ×3ゲートで兵士を増やして城を攻め落とせ！500ステージ、オフラインで遊べる
+Full description:
+🏰 大砲から兵士を発射し、ゲートで数を増やして敵の城を攻め落とそう！Crowd Siegeは、画面いっぱいの小さな兵士たちが戦う、かんたん操作でハマる群衆バトルゲームです。
+
+➕ 軍団を増やそう
+兵士を×2、×3、×4、+Nのゲートに通して、ひと握りの部隊を大軍団に。マイナスゲートや罠には気をつけて！
+
+🔥 熱くなる大砲 ― 本物のテクニック
+撃ち続けると大砲が熱くなります。熱ゲージの緑ゾーンで指を離すと「パーフェクト」：一瞬で冷却され、ダブルショット！熱くなりすぎると大砲がロックされます。
+
+👹 巨大ボス
+10ステージごとにボス戦：オーガ、ミイラ、イエティ、グミベア、海賊船長、溶岩ゴーレム、ロボット、エイリアンなど。
+
+🌍 12ワールド・500ステージ
+緑の谷、砂嵐、氷の頂、お菓子の王国、海賊の入り江、失われた神殿、炎の山、ネオンシティ、呪われた沼、星の要塞、ハロウィン、クリスマス。ワールドごとに回転アーム、ノコギリ、落とし穴、壁、砲台など新しい罠が登場。
+
+⚔️ チャンピオンと大砲
+タイタン、忍者、魔法使い、ドラゴンなどのチャンピオン、大砲11種、軍団スキン25種。連射速度や軍団の人数などを強化しよう。
+
+🎁 毎日新しいお楽しみ
+エンドレスの包囲戦モード、デイリーチャレンジ、毎週のスターウォー、シーズンパス、自分の王国、宝箱、ラッキールーレット、デイリーボーナス、ミッション、実績。
+
+✅ オフラインで遊べる
+✅ 指1本で操作、サクッと遊べるステージ
+✅ 30言語に対応
+
+群衆を集めて、増やして、すべての城を攻め落とせ！
+
+##### LANGUAGE: ko-KR
+App name: Crowd Siege: 대포 군단 전투
+Short description: ×2 ×3 게이트로 군단을 늘리고 성을 무너뜨려라! 500 스테이지, 오프라인 플레이
+Full description:
+🏰 대포로 병사를 쏘고, 게이트에서 수를 늘려 적의 성을 무너뜨리세요! Crowd Siege는 화면 가득 수백 명의 작은 병사들이 싸우는, 쉽지만 중독성 있는 군중 전투 게임입니다.
+
+➕ 군단을 늘려라
+병사들을 ×2, ×3, ×4, +N 게이트로 통과시켜 한 줌의 병사를 거대한 군단으로 만드세요. 마이너스 게이트와 함정은 피하세요!
+
+🔥 뜨거운 대포 – 진짜 실력
+계속 쏘면 대포가 뜨거워집니다. 열 게이지의 초록 구간에서 손을 떼면 퍼펙트: 즉시 냉각되고 더블 샷! 과열되면 대포가 잠깁니다.
+
+👹 거대 보스
+10 스테이지마다 보스전: 오우거, 미라, 예티, 젤리 곰, 해적 선장, 용암 골렘, 로봇, 외계인 등.
+
+🌍 12개 월드 – 500 스테이지
+푸른 계곡, 모래 폭풍, 얼음 봉우리, 사탕 왕국, 해적 만, 잃어버린 신전, 불의 산, 네온 시티, 저주받은 늪, 별의 요새, 할로윈, 크리스마스. 월드마다 회전 팔, 톱날, 구덩이, 벽, 포탑 등 새로운 함정이 등장합니다.
+
+⚔️ 챔피언과 대포
+타이탄, 닌자, 마법사, 드래곤 등 챔피언, 대포 11종, 군단 스킨 25종. 연사 속도, 군단 규모 등을 업그레이드하세요.
+
+🎁 매일 새로운 즐거움
+끝없는 공성전 모드, 일일 도전, 주간 스타 워, 시즌 패스, 나만의 왕국, 보물 상자, 행운의 룰렛, 일일 보상, 미션과 업적.
+
+✅ 오프라인 플레이 가능
+✅ 한 손가락 조작, 짧은 스테이지
+✅ 30개 언어 지원
+
+군중을 모으고, 늘리고, 모든 성을 정복하세요!
+
+##### LANGUAGE: zh-CN
+App name: Crowd Siege：大炮军团攻城战
+Short description: 让士兵穿过×2 ×3门，壮大军团，摧毁城堡！500关，无需网络也能玩
+Full description:
+🏰 用大炮发射士兵，让他们穿过倍增门，壮大军团，把敌人的城堡夷为平地！Crowd Siege 是一款上手简单又让人上瘾的人群大战游戏，屏幕上有数百名小士兵同时作战。
+
+➕ 让军团倍增
+让部队穿过×2、×3、×4和+N门，把一小撮士兵变成浩浩荡荡的大军。小心减号门和陷阱！
+
+🔥 灼热大炮——真正的技巧
+按住开火会让大炮升温。在热度条的绿色区域松手即可获得“完美”：瞬间冷却并双发射击！过热的话大炮会被锁定。
+
+👹 巨型首领
+每10关一场首领战：食人魔、木乃伊、雪人、软糖熊、海盗船长、熔岩魔像、机器人、外星人等等。
+
+🌍 12个世界——500关
+翠绿山谷、沙暴、冰霜之巅、糖果王国、海盗湾、失落神殿、火焰山、霓虹之城、诅咒沼泽、星之堡垒、万圣节和圣诞节。每个世界都有新陷阱：旋转臂、锯片、陷坑、墙壁和炮塔。
+
+⚔️ 勇士与大炮
+泰坦、忍者、巫师、巨龙等勇士，11门大炮和25种军团外观。升级射速、军团规模等等。
+
+🎁 每天都有新内容
+无尽围城模式、每日挑战、每周星之战、赛季通行证、你的王国、宝箱、幸运转盘、每日奖励、任务和成就。
+
+✅ 无需网络即可游玩
+✅ 单指操作，关卡简短
+✅ 支持30种语言
+
+集结你的人群，让他们倍增，征服每一座城堡！
+
+##### LANGUAGE: zh-TW
+App name: Crowd Siege：大砲軍團攻城戰
+Short description: 讓士兵穿過×2 ×3門，壯大軍團，摧毀城堡！500關，不用網路也能玩
+Full description:
+🏰 用大砲發射士兵，讓他們穿過倍增門，壯大軍團，把敵人的城堡夷為平地！Crowd Siege 是一款上手簡單又讓人上癮的人群大戰遊戲，螢幕上有數百名小士兵同時作戰。
+
+➕ 讓軍團倍增
+讓部隊穿過×2、×3、×4和+N門，把一小撮士兵變成浩浩蕩蕩的大軍。小心減號門和陷阱！
+
+🔥 灼熱大砲——真正的技巧
+按住開火會讓大砲升溫。在熱度條的綠色區域放開即可獲得「完美」：瞬間冷卻並雙發射擊！過熱的話大砲會被鎖定。
+
+👹 巨型首領
+每10關一場首領戰：食人魔、木乃伊、雪人、軟糖熊、海盜船長、熔岩魔像、機器人、外星人等等。
+
+🌍 12個世界——500關
+翠綠山谷、沙暴、冰霜之巔、糖果王國、海盜灣、失落神殿、火焰山、霓虹之城、詛咒沼澤、星之堡壘、萬聖節和聖誕節。每個世界都有新陷阱：旋轉臂、鋸片、陷坑、牆壁和砲塔。
+
+⚔️ 勇士與大砲
+泰坦、忍者、巫師、巨龍等勇士，11門大砲和25種軍團外觀。升級射速、軍團規模等等。
+
+🎁 每天都有新內容
+無盡圍城模式、每日挑戰、每週星之戰、賽季通行證、你的王國、寶箱、幸運轉盤、每日獎勵、任務和成就。
+
+✅ 不用網路即可遊玩
+✅ 單指操作，關卡簡短
+✅ 支援30種語言
+
+集結你的人群，讓他們倍增，征服每一座城堡！
+
+##### LANGUAGE: zh-HK
+App name: Crowd Siege：大砲軍團攻城戰
+Short description: 讓士兵穿過×2 ×3門，壯大軍團，摧毀城堡！500關，不用網路也能玩
+Full description:
+🏰 用大砲發射士兵，讓他們穿過倍增門，壯大軍團，把敵人的城堡夷為平地！Crowd Siege 是一款上手簡單又讓人上癮的人群大戰遊戲，螢幕上有數百名小士兵同時作戰。
+
+➕ 讓軍團倍增
+讓部隊穿過×2、×3、×4和+N門，把一小撮士兵變成浩浩蕩蕩的大軍。小心減號門和陷阱！
+
+🔥 灼熱大砲——真正的技巧
+按住開火會讓大砲升溫。在熱度條的綠色區域放開即可獲得「完美」：瞬間冷卻並雙發射擊！過熱的話大砲會被鎖定。
+
+👹 巨型首領
+每10關一場首領戰：食人魔、木乃伊、雪人、軟糖熊、海盜船長、熔岩魔像、機器人、外星人等等。
+
+🌍 12個世界——500關
+翠綠山谷、沙暴、冰霜之巔、糖果王國、海盜灣、失落神殿、火焰山、霓虹之城、詛咒沼澤、星之堡壘、萬聖節和聖誕節。每個世界都有新陷阱：旋轉臂、鋸片、陷坑、牆壁和砲塔。
+
+⚔️ 勇士與大砲
+泰坦、忍者、巫師、巨龍等勇士，11門大砲和25種軍團外觀。升級射速、軍團規模等等。
+
+🎁 每天都有新內容
+無盡圍城模式、每日挑戰、每週星之戰、賽季通行證、你的王國、寶箱、幸運轉盤、每日獎勵、任務和成就。
+
+✅ 不用網路即可遊玩
+✅ 單指操作，關卡簡短
+✅ 支援30種語言
+
+集結你的人群，讓他們倍增，征服每一座城堡！
